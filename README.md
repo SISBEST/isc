@@ -1,2 +1,0 @@
-# isc
-The IF Club
