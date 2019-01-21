@@ -1,5 +1,0 @@
-Index:list of all dwnlds
-Dvd:dvd order form
-Play:online twine
-story.iso:the iso file
-Get:Download html
